@@ -6,4 +6,4 @@ The project consists of 2 .py files: bot.py and nn.py.
 
 nn.py - neural netmork, classifiing images
 
-bot.py - self-written file
+bot.py - self-written file, performing conversation with user, saving images and predicting with modules from nn.py
